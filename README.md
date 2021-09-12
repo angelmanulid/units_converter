@@ -1,6 +1,6 @@
 # Units Converter
 
-A java desktop application that performs conversion of units of Lenght, Volume, Pressure, and Flowrate.
+A java desktop application that performs conversion of units of Length, Volume, Pressure, and Flowrate.
 
 # What I Learned
 - Switch statements
